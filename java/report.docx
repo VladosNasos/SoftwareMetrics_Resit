@@ -1,0 +1,8 @@
+PLOC: 146
+This metric represents every line in the file, counting both code and blank lines.
+
+LOC: 133
+These are the non-blank, non-comment lines where actual code resides.
+
+Comments: 0
+There are no lines that contain comments in the given code.
