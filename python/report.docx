@@ -1,0 +1,19 @@
+Physical Lines of Code (PLOC):
+Total number of lines in the file, including blank lines and lines with comments/docstrings, is 59.
+
+Lines of Code (LOC):
+Counting only the lines that contain actual executable code (excluding blank lines and comments/docstrings), we get 29 lines.
+
+Comment Lines:
+Lines that contain comments or docstrings sum up to 15 lines.
+
+Report Summary:
+
+PLOC: 59
+This metric represents every line in the file, counting code lines, blank lines, and comment/docstring lines.
+
+LOC: 29
+These lines contain the actual executable Python code, excluding comments, docstrings, and blank lines.
+
+Comments: 15
+This count includes all lines that are part of the module, class, and method docstrings, which serve as comments/documentation in the code.
